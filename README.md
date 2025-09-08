@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Mohammed Shuaib</h1>
 <h3 align="center">A Passionate Software Developer From India</h3>
-<img align="right" alt="coding"  width="500" src="https://github.com/user-attachments/assets/9af88d55-3ea9-4b97-a252-0a3952d0f617" />
+<img align="right" alt="coding"  width="500" src="https://github.com/smdshuaib786king-1659/smdshuaib786king-1659/blob/main/9070324cdfc07c68d60eed0c39e77573.gif?raw=true" />
 
 />
 
