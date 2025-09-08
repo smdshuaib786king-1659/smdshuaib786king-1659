@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Mohammed Shuaib</h1>
 <h3 align="center">A Passionate Software Developer From India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/c550422b-7e45-4931-bcd1-7ead6f7d0954" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f6ea578f-458f-4c10-9b0f-49841de40141" />
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smdshuaib786king-1659" alt="smdshuaib786king-1659" /></a> </p>
 
 - 🌱 I’m currently learning **Python Full-Stack Development**
 
