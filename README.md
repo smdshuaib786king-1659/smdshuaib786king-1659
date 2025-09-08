@@ -2,9 +2,6 @@
 <h3 align="center">A Passionate Software Developer From India</h3>
 <img align="right" alt="coding"  width="500" src="https://github.com/smdshuaib786king-1659/smdshuaib786king-1659/blob/main/9070324cdfc07c68d60eed0c39e77573.gif?raw=true" />
 
-/>
-
-
 - 🌱 I’m currently learning **Python Full-Stack Development**
 
 - 💬 Ask me about **Python| SQL| Django| HTML| CSS**
