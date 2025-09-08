@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Mohammed Shuaib</h1>
 <h3 align="center">A Passionate Software Developer From India</h3>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f6ea578f-458f-4c10-9b0f-49841de40141" />
+<img align="right" alt="coding"  width="500" src="https://github.com/user-attachments/assets/f6ea578f-458f-4c10-9b0f-49841de40141" />
 
 
 - 🌱 I’m currently learning **Python Full-Stack Development**
